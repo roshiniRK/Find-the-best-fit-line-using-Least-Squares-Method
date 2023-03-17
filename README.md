@@ -46,7 +46,7 @@ plt.show()
 ```
 
 ## Output:
-![output](experiment%20output.png)
+![](/experiment%20output.png)
 
 
 ## Result:
